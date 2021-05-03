@@ -3,4 +3,4 @@ Maryam Hamad, (Member, IEEE), Caroline Conti, (Member, IEEE), Paulo Nnunes, (Mem
 
 **Light Field Over-segmentation** : 
 when the paper is accepted all supplementary files including video results will be available online.
-Additionally, the generated 4D LF labels with all used metrics will be available here for any future comparisons.
+Additionally, the generated 4D LF labels for the used HCI dataset with all accuracy and consistency metrics will be available here for any future comparisons.
