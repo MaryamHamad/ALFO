@@ -1,5 +1,5 @@
 # ALFO
-Maryam Hamad, (Member, IEEE), CAROLINE CONTI, (Member, IEEE), PAULO NUNES, (Member, IEEE), and LUÍS DUCLA SOARES, (Senior Member, IEEE)
+Maryam Hamad, (Member, IEEE), Caroline Conti, (Member, IEEE), Paulo Nnunes, (Member, IEEE), and Luis Ducla Soares, (Senior Member, IEEE)
 
 **Light Field Over-segmentation** : 
 when the paper is accepted all supplementary files including video results will be available online.
