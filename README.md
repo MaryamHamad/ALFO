@@ -1,5 +1,5 @@
 # ALFO
-Maryam Hamad, (Member, IEEE), Caroline Conti, (Member, IEEE), Paulo Nnunes, (Member, IEEE), and Luis Ducla Soares, (Senior Member, IEEE)
+Maryam Hamad, (Graduate Student Member, IEEE), Caroline Conti, (Member, IEEE), Paulo Nnunes, (Member, IEEE), and Luis Ducla Soares, (Senior Member, IEEE)
 
 **Light Field Over-segmentation :**
 
