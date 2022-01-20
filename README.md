@@ -14,7 +14,7 @@ Additionally, a demo code is uploaded to show the labeled images in random color
 **Full paper :**
 You can read the full paper published in IEEE Access journal in https://ieeexplore.ieee.org/abstract/document/9541394
 
-**Please cite this paper if you use the labeled images:**
+**Please cite this paper if you use the labeled images or compare with our results:**
 
 @ARTICLE{9541394,  
 author={Hamad, Maryam and Conti, Caroline and Nunes, Paulo and Soares, Luís Ducla},  
