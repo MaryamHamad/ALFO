@@ -1,7 +1,6 @@
 # ALFO
-Maryam Hamad, (Graduate Student Member, IEEE), Caroline Conti, (Member, IEEE), Paulo Nnunes, (Member, IEEE), and Luis Ducla Soares, (Senior Member, IEEE)
-
 **Adaptive Light Field Over-segmentation :**
+Maryam Hamad, (Graduate Student Member, IEEE), Caroline Conti, (Member, IEEE), Paulo Nnunes, (Member, IEEE), and Luis Ducla Soares, (Senior Member, IEEE)
 
 ![ALFO](https://user-images.githubusercontent.com/38579988/136948991-c4b2fe75-01cf-44d2-8314-b789f9caaeec.PNG)
 
